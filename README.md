@@ -1,1 +1,43 @@
 # anime-trends-site
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Anime Trends — Placas & Chaveiros</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="topo">
+    <h1>Anime Trends</h1>
+    <p>Placas, chaveiros e decoração geek</p>
+  </header>
+
+  <section class="produtos">
+    <h2>Chaveiros</h2>
+
+    <img src="chaveiro1.jpg" class="foto"/>
+    <img src="chaveiro2.jpg" class="foto"/>
+    <img src="chaveiro3.jpg" class="foto"/>
+    <img src="chaveiro4.jpg" class="foto"/>
+    <img src="chaveiro5.jpg" class="foto"/>
+
+    <h2>Placas de Procurado</h2>
+    <p>Envie suas imagens das placas que quer adicionar.</p>
+  </section>
+
+  <section class="contato">
+    <h2>Fazer Pedido</h2>
+    <a class="btn" href="https://wa.me/5511945830866" target="_blank">
+      Falar no WhatsApp
+    </a>
+  </section>
+
+  <footer>
+    <p>© 2025 Anime Trends</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
